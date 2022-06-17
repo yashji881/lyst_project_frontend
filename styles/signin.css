@@ -1,0 +1,62 @@
+#signindiv{
+    border: 1px solid black;
+    height: 900px;
+    display: flex;
+}
+#signin_details{
+    margin-top: 20px;
+    margin-left: 380px;
+    height: 200px;
+    width: 300px;
+}
+#newlyst{
+    border: 1px solid black;
+    width: 150px;
+    background-color: black;
+    color: antiquewhite;
+   height: 30px;
+   text-align: center;
+}
+#email_input{
+    width:300px;
+}
+#password_input{
+    width: 300px;
+}
+#join_lyst_btn{
+    width: 300px;
+    background-color: black;
+    color: antiquewhite;
+    height: 30px;
+
+}
+#btnfb{
+    background-color: blue;
+    color: antiquewhite;
+    width: 300px;
+    height: 30px;
+}
+#btnggl{
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: 30px;
+}
+#signin_member{
+    /* margin-top: 100px; */
+    margin-left: 50px;
+    height: 670px;
+    border: 1px solid black;
+    width: 400px;
+    background-color: rgb(193, 152, 232);
+}
+#signin_member1{
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    color: black;
+    height: 200px;
+    width: 300px; 
+    text-align: center;
+}

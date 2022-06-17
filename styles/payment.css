@@ -1,0 +1,25 @@
+#container{
+    border: 1px solid black;
+    margin-top: 100px;
+  margin-left: 600px;
+  width: 400px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+background-color: grey;
+}
+#h1{
+    font-size: 50px;
+    color: blue;
+}
+body{
+    background-color: bisque;
+}
+#cash_input,#debit_input,#credit_input,#upi_input{
+    width: 300px;
+}
+#placebtn{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+}

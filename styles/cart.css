@@ -1,0 +1,21 @@
+#datadiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+#checkout{
+   margin-top: 40px;
+  margin-left: 500px;
+    height: 40px;
+    width: 500px;
+    background-color: orange;
+    color: white;
+}
+#total{
+    margin-top: 30px;
+    text-align: center;
+}
+#totalindollar{
+    margin-top: 30px;
+    text-align: center;
+}

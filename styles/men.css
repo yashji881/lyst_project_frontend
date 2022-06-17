@@ -1,0 +1,46 @@
+
+
+#navbarup1-1{
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    padding-left: 20px;
+}
+#sidebar{
+    float: left;
+    border: 1px solid black;
+    width: 200px;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-top: 30px;
+    height:4960px ;
+}
+#datadiv{
+    border: 1px solid black;
+    height: 5000px;
+    width: auto;
+    margin-left: 240px;
+}
+#datadiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+#imgdiv{
+    border: 1px solid black;
+    padding-bottom: 20px;
+    padding-left: 40px;
+
+}
+#imgdivimg{
+   width: 350px;
+}
+#cartpage{
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+}
+#sidebar>p:hover{
+    cursor: pointer;
+    color: orangered;
+}

@@ -1,0 +1,52 @@
+#h1{
+    margin-top: 50px;
+    color: blue;
+    text-align: center;
+}
+#firstname_input{
+    height: 30px;
+    width: 300px;
+}
+#lastname_input{
+    height: 30px;
+    width: 300px;
+}
+#email_input{
+    height: 30px;
+    width: 300px;
+}
+#mobile_input{
+    height: 30px;
+    width: 300px; 
+}
+#add1_input,#add2_input{
+   
+    margin-bottom: 20px;
+    height: 30px;
+    width: 400px;
+}
+#post_input,#city_input{
+    
+    
+    margin-bottom: 20px;
+    height: 30px;
+    width: 400px;
+}
+#container{
+   
+    border: 1px solid black;
+    text-align: center;
+}
+#payment_button{
+    width: 400px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+    font-size: large;
+    margin-bottom: 30px;
+}
+#lyst{
+    font-size: 70px;
+    text-decoration: underline;
+    color: blue;
+}

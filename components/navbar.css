@@ -1,0 +1,83 @@
+#navbarup{
+    /* border: 1px solid black; */
+    height: 140px;
+    width: 100%;
+}
+#signupdiv{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+#join{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+#inus{
+    color: black;
+    text-decoration: none;
+}
+#signin{
+    color: black;
+    text-decoration: none;
+}
+#help{
+    color: black;
+    text-decoration: none;
+}
+#lyst{
+   text-decoration: none;
+  
+   /* text-decoration: solid; */
+   margin-left: 20px;
+   margin-right: 10px;
+   color: black;
+   
+}
+h1>a,h3>a{
+    text-decoration: none;
+}
+#women{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+#men{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+#searchbox{
+    display: flex;
+
+}
+#searchbar{
+    margin-top: 20px;
+    width: 80%;
+    height: 40px;
+}
+#footer{
+    display: flex;
+    border: 1px solid black;
+    height: 800px;
+    background-color: rgb(175, 175, 175);
+}
+#reviews{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#international{
+    margin-left: 300px;
+    margin-top: 80px;
+}#helpandinfo{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+#international>h4:hover{
+color: white;
+}
+#helpandinfo>h4:hover{
+    color: white;
+}
